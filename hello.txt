@@ -8,4 +8,4 @@ hello git hello world!
 hello git hello world!
 hello git hello world!
 hello git hello world!
-hello git hello world!
+hello git hello world! hot-fix text
